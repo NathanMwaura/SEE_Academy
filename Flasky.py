@@ -1,0 +1,1 @@
+print("Love is PLP! 💖")  # This line is just a fun message to show love for programming languages.
